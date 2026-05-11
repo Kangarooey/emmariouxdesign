@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Emma Rioux • UX / Service Design</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; color: #222; }
+    header { background: #111; color: #fff; padding: 50px 20px; text-align: center; }
+    nav { background: #f6f6f6; padding: 12px; text-align: center; }
+    nav a { margin: 0 15px; text-decoration: none; font-weight: bold; color: #333; }
+    section { max-width: 900px; margin: auto; padding: 40px 20px; }
+    h2 { margin-top: 0; }
+    .role { margin-bottom: 35px; }
+    .role h3 { margin-bottom: 5px; }
+    footer { text-align: center; padding: 20px; background: #eee; margin-top: 40px; }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Emma Rioux</h1>
+  <p>Lead UX / Service Design</p>
+  <p>Brighton, UK • 07966 428890 • emma.rioux@gmail.com</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#experience">Experience</a>
+  <a href="#skills">Skills</a>
+  <a href="#education">Education</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+  <h2>About</h2>
+  <p>I am a passionate and driven UX and Service designer with over 20 years transforming and delivering successful, customer‑centric digital products and services across financial services, banking, retail, telecoms and government.</p>
+  <p>I define strategy and research direction, focusing on long‑term engagement, retention, and lifecycle behaviours. I plan and conduct user research, synthesise insights, design strategic recommendations, and deliver intuitive, human‑centred experiences.</p>
+  <p>Experienced in navigating highly regulated organisations, I ask the right questions, build strong relationships, and promote experimentation, ensuring user needs are prioritised and business value is realised.</p>
+</section>
+
+<section id="skills">
+  <h2>Skills</h2>
+  <ul>
+    <li>Design strategy, vision alignment & stakeholder management</li>
+    <li>UX leadership across Product, Engineering and senior stakeholders</li>
+    <li>User research, service design, journey mapping, prototyping</li>
+    <li>UI/visual design & design systems</li>
+    <li>Complex ecosystem mapping, workflows, data‑driven design</li>
+    <li>Mentoring, team leadership & cross‑functional collaboration</li>
+    <li>Expert in Figma, Sketch, MIRO, GDS, Adobe Suite, GitHub, HTML/CSS</li>
+  </ul>
+</section>
+
+<section id="experience">
+  <h2>Experience</h2>
+
+  <div class="role">
+    <h3>Design Lead — Society of Garden and Landscape Designers</h3>
+    <p><strong>07/2025 – 02/2026</strong></p>
+    <p>Established self‑service digital workflows for members to generate legally compliant specifications. Led discovery with member research, mapped journeys, prototyped solutions and produced a business case for future phases.</p>
+  </div>
+
+  <div class="role">
+    <h3>Design Lead — Tesco Operations</h3>
+    <p><strong>05/2024 – 07/2025</strong></p>
+    <p>Led discovery for the 'Future of Replenishment' vision targeting £1b+ efficiencies. Managed multiple design initiatives across computer vision, incident prevention and task management. Led a team of 5 UX designers.</p>
+  </div>
+
+  <div class="role">
+    <h3>Design Manager — Tesco Operations</h3>
+    <p><strong>11/2022 – 11/2023</strong></p>
+    <p>Partnered with leadership to map colleague and customer journeys, reset planning processes, managed resource allocation and grew the team from 5 to 10 designers.</p>
+  </div>
+
+  <div class="role">
+    <h3>Lead Design — NatWest / RoosterMoney</h3>
+    <p><strong>04/2022 – 11/2022</strong></p>
+    <p>Delivered the Premium Cards proposition, mapping journeys, navigating compliance, testing prototypes and supporting roadmap definition.</p>
+  </div>
+
+  <div class="role">
+    <h3>Experience Design Consultant — Kallidus</h3>
+    <p><strong>10/2021 – 03/2022</strong></p>
+    <p>Defined cross‑suite product strategy, ran discovery across US/UK teams and mapped technology and product integrations.</p>
+  </div>
+
+  <div class="role">
+    <h3>Experience Design Consultant — Shoot</h3>
+    <p><strong>04/2020 – 10/2021</strong></p>
+    <p>Developed design strategy for Shoot v2.0, led research, optimised data workflows, defined product features and delivered a reusable design system.</p>
+  </div>
+
+  <div class="role">
+    <h3>Strategic UX/Service Lead — Legal & General (Investment Management)</h3>
+    <p><strong>09/2019 – 03/2020</strong></p>
+    <p>Mapped trade flows, workflows and data services; delivered prototypes and discovery outputs for portfolio management optimisation.</p>
+  </div>
+
+  <p>Additional roles with HSBC, Virgin Media, Deutsche Bank, HMRC, AKQA, Bupa and others available on request.</p>
+</section>
+
+<section id="education">
+  <h2>Education</h2>
+  <p><strong>MA Multimedia Arts</strong> — Liverpool John Moores University (1997–1999)</p>
+  <p><strong>BSc (Hons) MediaLab Arts</strong> — University of Plymouth (1992–1996)</p>
+</section>
+
+<section id="contact">
+  <h2>Contact</h2>
+  <p>Email: emma.rioux@gmail.com</p>
+  <p>Phone: 07966 428890</p>
+  <p>Location: Brighton, UK</p>
+</section>
+
+<footer>
+  © Emma Rioux
+</footer>
+
+</body>
+</html>
