@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Experience • Emma Rioux</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<header>
+  <h1>Experience</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="skills.html">Skills</a>
+  <a href="work.html">Work</a>
+  <a href="education.html">Education</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<main>
+  <h2>Most Recent Roles</h2>
+
+  <h3>Design Lead — Society of Garden and Landscape Designers (2025–2026)</h3>
+  <p>Established self‑service digital workflows enabling members to produce legally compliant project specifications.</p>
+
+  <h3>Design Lead — Tesco Operations (2024–2025)</h3>
+  <p>Led discovery for the Future of Replenishment initiative and multiple design streams across computer vision and task management. Managed a team of 5 UX designers.</p>
+
+  <h3>Design Manager — Tesco Operations (2022–2023)</h3>
+  <p>Mapped end‑to‑end journeys, redefined planning processes, grew the design team from 5 to 10, managed design resourcing and direction.</p>
+
+  <h3>Lead Design — NatWest / RoosterMoney (2022)</h3>
+  <p>Delivered the Premium Cards proposition; mapped journeys, prototypes and supported roadmap shaping.</p>
+
+  <h3>Consultant Roles — Kallidus, Shoot, L&G Investment Management</h3>
+  <p>Product strategy, workflow mapping, research‑led design and prototype validation.</p>
+
+  <p>Full project list available on request.</p>
+</main>
+
+<footer>
+  © Emma Rioux
+</footer>
+</body>
+</html>

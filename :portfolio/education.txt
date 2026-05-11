@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Education • Emma Rioux</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<header>
+  <h1>Education</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="experience.html">Experience</a>
+  <a href="skills.html">Skills</a>
+  <a href="work.html">Work</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<main>
+  <h2>Academic Background</h2>
+
+  <p><strong>MA Multimedia Arts</strong> — Liverpool John Moores University (1997–1999)</p>
+  <p>Main areas: navigational techniques and content exploration on the web.</p>
+
+  <p><strong>BSc (Hons) MediaLab Arts</strong> — University of Plymouth (1992–1996)</p>
+  <p>A hybrid degree in design and technology across new media arts and creative engineering.</p>
+</main>
+
+<footer>
+  © Emma Rioux
+</footer>
+</body>
+</html>

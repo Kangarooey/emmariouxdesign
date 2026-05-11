@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About • Emma Rioux</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<header>
+  <h1>About</h1>
+</header>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="experience.html">Experience</a>
+  <a href="skills.html">Skills</a>
+  <a href="work.html">Work</a>
+  <a href="education.html">Education</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<main>
+  <h2>Who I Am</h2>
+
+  <p>I am a passionate and driven UX and Service designer with over 20 years transforming and delivering successful digital products and services across financial services, banking, retail, telecoms and government.</p>
+
+  <p>I define strategy and research direction, focusing on long‑term engagement, retention, and lifecycle behaviours. I plan and conduct research, synthesise insights, design strategic recommendations, and deliver intuitive, human‑centred experiences.</p>
+
+  <p>I excel in navigating highly regulated organisations, building relationships, asking the right questions of the right people, and enabling experimentation so user needs remain prioritised.</p>
+</main>
+
+<footer>
+  © Emma Rioux
+</footer>
+</body>
+</html>

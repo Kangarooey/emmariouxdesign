@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Emma Rioux • UX / Service Design</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+<header>
+  <h1>Emma Rioux</h1>
+  <p>Lead UX / Service Design</p>
+</header>
+
+<nav>
+  <a href="about.html">About</a>
+  <a href="experience.html">Experience</a>
+  <a href="skills.html">Skills</a>
+  <a href="work.html">Work</a>
+  <a href="education.html">Education</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<main>
+  <h2>Welcome</h2>
+  <p>I am a lead UX and service designer with over 20 years' experience delivering human‑centred digital products and services across finance, retail, telecoms and government.</p>
+
+  <p>I specialise in strategy, research, service design and leading teams in highly regulated environments where clarity, alignment and strong stakeholder engagement are essential.</p>
+</main>
+
+<footer>
+  © Emma Rioux
+</footer>
+</body>
+</html>
